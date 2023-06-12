@@ -2,7 +2,7 @@ const Home = (props) => {
   return (
     <div>
       <div className="profile">
-        <h1 className="menu__title">Home</h1>
+        <h1 className="menu__title">My Profile</h1>
         {/* <ul>
           {props.dishesList.map((item, index) => (
             <li key={index}>

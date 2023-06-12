@@ -2,7 +2,7 @@ const HomeRes = (props) => {
   return (
     <div>
       <div className="profile">
-        <h1 className="menu__title">HomeRes</h1>
+        <h1 className="menu__title">Welcome to Il Ristorante</h1>
         {/* <ul>
           {props.dishesList.map((item, index) => (
             <li key={index}>

@@ -10,7 +10,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   const links = [
-    { name: "Home", url: "/" },
+    { name: "Profile", url: "/" },
     { name: "Contact", url: "/contact" },
     { name: "About", url: "/about" },
   ];
@@ -19,6 +19,7 @@ function App() {
     { name: "Reserve", url: "/reserve" },
     { name: "Orders", url: "/orders" },
   ];
+
   return (
     <>
       <div>
