@@ -52,6 +52,9 @@ a:hover {
 
 .res-links {
   color: rgb(99, 189, 91);
+  &:hover {
+    color: rgb(53, 101, 48);
+  }
 }
 
 .react-forms {

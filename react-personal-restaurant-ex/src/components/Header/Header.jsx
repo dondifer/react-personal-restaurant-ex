@@ -38,7 +38,7 @@ const Header = (props) => {
               ))}
         </ul>
         <button className="change-button" onClick={showRes}>
-          Switch My Profilo/Il Ristorante
+          Switch My Profile/Il Ristorante
         </button>
       </nav>
     </div>
